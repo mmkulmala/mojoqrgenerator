@@ -10,4 +10,4 @@ pixi run mojo generate-qr-codes.mojo
 And you should see Test.png going to www.iltalehti.fi
 
 # Todo
-Add same functionality as 
+Add same functionality as my python version, but with some more mojo in them ;)
