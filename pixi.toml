@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Marno Kulmala <marno.kulmalal@arado.fi>"]
+channels = ["https://conda.modular.com/max-nightly", "conda-forge"]
+name = "mojoqrgenerator"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mojo = ">=25.6.0.dev2025090305,<26"
+python = "==3.12"
+segno = ">=1.6.6,<2"
