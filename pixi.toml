@@ -1,5 +1,5 @@
 [workspace]
-authors = ["Marno Kulmala <marno.kulmalal@arado.fi>"]
+authors = ["Marno Kulmala <thejavasaurus@gmail.com>"]
 channels = ["https://conda.modular.com/max-nightly", "conda-forge"]
 name = "mojoqrgenerator"
 platforms = ["osx-arm64"]
